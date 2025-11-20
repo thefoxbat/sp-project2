@@ -1,0 +1,8 @@
+the_foxbat@THEFOXBAT:/mnt/d/Binghamton University Course Work/SEM 1/System Programming(Xin Zhang)/Projects/project2/proj_2_base/proj_2_base$ ls -l
+total 16
+-rwxrwxrwx 1 the_foxbat the_foxbat  185 Nov 15 02:32 Makefile
+-rwxrwxrwx 1 the_foxbat the_foxbat 5995 Nov 15 03:35 README.md
+-rwxrwxrwx 1 the_foxbat the_foxbat 2035 Nov 15 03:30 mybarrier.c
+-rwxrwxrwx 1 the_foxbat the_foxbat  431 Nov 15 03:27 mybarrier.h
+-rwxrwxrwx 1 the_foxbat the_foxbat 3192 Nov 15 03:30 mybarrier.o
+-rwxrwxrwx 1 the_foxbat the_foxbat    0 Nov 15 03:37 output.txt
