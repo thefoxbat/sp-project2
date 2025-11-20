@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CS 551 Programming Project 2: MyBarrier Implementation
 
 **Name:** Aditya Prakash
@@ -378,4 +378,4 @@ This implementation strictly adheres to the project specification:
 ## Academic Integrity
 
 This code was developed independently following the course collaboration policy. No code was shared with other students.
->>>>>>> ddd7f05bc5f35db669a3bca20d2c59f27002315c
+
